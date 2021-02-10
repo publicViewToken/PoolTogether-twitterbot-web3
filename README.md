@@ -7,7 +7,9 @@ twitter bot that connects with to @pooltogether ethereum contracts using web3 . 
 first use npm to import main files into your folder
 
 npm i @web3
+
 npm i @abidecoder
+
 npm i @twit 
 
 Next go to config file and add your keys that twitter developer portal gives you.
