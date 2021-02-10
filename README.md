@@ -21,6 +21,8 @@ node twitpool.js
 if you would like to see log data inside console simply
 comment out all twit data inside twitpoolbot.js.
 and use 
+
+
 console.log(events);
 
 or 
