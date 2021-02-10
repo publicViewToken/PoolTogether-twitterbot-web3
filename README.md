@@ -8,9 +8,9 @@ npm i @web3
 npm i @abidecoder
 npm i @twit 
 
-Next go to config file and add your keys that twiteer developer portal gives you.
+Next go to config file and add your keys that twitter developer portal gives you.
 
-now you can node into twitpoolbot.js from console
+Now you can node into twitpoolbot.js from console
 to run file.
 
 node twitpool.js
@@ -18,12 +18,12 @@ node twitpool.js
 .
 .
 
-if you would like to sse log data inside console simply
+if you would like to see log data inside console simply
 comment out all twit data inside twitpoolbot.js.
 and use 
-consol.log(events);
+console.log(events);
 or 
-consol.log(currentblock);
+console.log(currentblock);
 
 
 
